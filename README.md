@@ -17,10 +17,17 @@ pip install yfinance numpy matplotlib
 ```
 
 ## Usage
-- Run the script by executing the following command in your terminal:
-```bash
-python monte_carlo_simulation.py
-```
+1. **Clone the Repository:**
+   ```bash
+    git clone https://github.com/Antisource/MonteCarloSimulation.git
+   ```
+
+2. **Run the App:**
+   - Run the script by executing the following command in your terminal:
+  ```bash
+   python  Monte_Carlo_Stock_Simulation.py
+  ```
+
 - Enter the requested information, including the name of the stock/company and its ticker symbol.
 
 - View the generated Monte Carlo simulation plot, which shows multiple possible future price paths for the given stock.
