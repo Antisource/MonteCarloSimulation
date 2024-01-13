@@ -18,6 +18,7 @@ pip install yfinance numpy matplotlib
 
 ## Usage
 1. **Clone the Repository:**
+   
    ```bash
     git clone https://github.com/Antisource/MonteCarloSimulation.git
    ```
